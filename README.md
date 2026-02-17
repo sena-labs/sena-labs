@@ -2,9 +2,9 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Sena%20Labs&fontSize=80&fontColor=00f7ff&animation=twinkling&fontAlignY=30&desc=%E2%9A%A1%20AI%20%C2%B7%20Open%20Source%20%C2%B7%20Innovation%20%E2%9A%A1&descAlignY=55&descSize=18&descColor=ff00ff)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%E3%80%8C+Building+open-source+AI+tools+for+everyone+%E3%80%8D;%E3%80%8C+300%2B+AI+models+at+your+fingertips+%E3%80%8D;%E3%80%8C+From+Italy+to+the+world+%E3%80%8D;%E3%80%8C+SYSTEM+ONLINE+%E3%80%8D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=%E3%80%8C+Building+open-source+AI+tools+for+everyone+%E3%80%8D;%E3%80%8C+300%2B+AI+models+at+your+fingertips+%E3%80%8D;%E3%80%8C+Turning+complex+ideas+into+practical+solutions+%E3%80%8D;%E3%80%8C+From+Italy+to+the+world+%E3%80%8D;%E3%80%8C+SYSTEM+ONLINE+%E3%80%8D)](https://git.io/typing-svg)
 
-![Stars](https://img.shields.io/badge/â­_Stars-00f7ff?style=for-the-badge&labelColor=0d1117) ![Open Source](https://img.shields.io/badge/ðŸ”“_Open_Source-ff00ff?style=for-the-badge&labelColor=0d1117) ![Made in Italy](https://img.shields.io/badge/ðŸ‡®ðŸ‡¹_Made_in_Italy-00f7ff?style=for-the-badge&labelColor=0d1117)
+![Stars](https://img.shields.io/github/stars/sena-labs?style=for-the-badge&color=00f7ff&labelColor=0d1117&label=â­+Stars) ![Open Source](https://img.shields.io/badge/ðŸ”“_Open_Source-ff00ff?style=for-the-badge&labelColor=0d1117) ![Made in Italy](https://img.shields.io/badge/ðŸ‡®ðŸ‡¹_Made_in_Italy-00f7ff?style=for-the-badge&labelColor=0d1117)
 
 </div>
 
@@ -12,9 +12,20 @@
 
 ## âš¡ ABOUT
 
-> **Sena Labs** is an independent R&D lab focused on building practical, open-source AI tools.
-> We believe powerful AI should be accessible, transparent, and easy to integrate.
-> Based in Italy, shipping worldwide.
+> Sviluppatore appassionato di software, intelligenza artificiale, sistemi embedded ed elettronica.
+> Trasformo idee complesse in soluzioni pratiche, promuovendo l'innovazione accessibile attraverso l'open source.
+>
+> **Sena Labs** Ã¨ un laboratorio R&D indipendente dedicato alla creazione di strumenti AI open-source â€” potenti, trasparenti e facili da integrare.
+
+<div align="center">
+
+```
+ðŸŽ¯ Mission: Powerful AI, accessible to everyone
+ðŸ“ Based in Italy Â· Shipping worldwide
+ðŸ¤ Open to collaborations and contributions
+```
+
+</div>
 
 ---
 
@@ -60,8 +71,9 @@ const SENA_LABS = {
   name: "Sena Labs",
   founder: "Ivan Sena",
   location: "Italy ðŸ‡®ðŸ‡¹",
-  focus: ["AI Integration", "Open Source Tools", "Developer Experience"],
-  stack: ["Python", "TypeScript", "PowerShell"],
+  focus: ["AI Integration", "Open Source Tools", "Embedded Systems", "Developer Experience"],
+  stack: ["Python", "TypeScript", "PowerShell", "C/C++"],
+  domains: ["LLM Pipelines", "GitHub Tooling", "Automation", "Electronics"],
   philosophy: "Powerful AI, accessible to everyone",
   status: "ðŸŸ¢ ONLINE",
 } as const;
@@ -73,7 +85,7 @@ const SENA_LABS = {
 
 ![Python](https://img.shields.io/badge/Python-00f7ff?style=for-the-badge&logo=python&logoColor=0d1117) ![TypeScript](https://img.shields.io/badge/TypeScript-ff00ff?style=for-the-badge&logo=typescript&logoColor=0d1117) ![PowerShell](https://img.shields.io/badge/PowerShell-00f7ff?style=for-the-badge&logo=powershell&logoColor=0d1117) ![Node.js](https://img.shields.io/badge/Node.js-ff00ff?style=for-the-badge&logo=node.js&logoColor=0d1117)
 
-![OpenAI](https://img.shields.io/badge/OpenAI-00f7ff?style=for-the-badge&logo=openai&logoColor=0d1117) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff00ff?style=for-the-badge&logo=githubactions&logoColor=0d1117) ![npm](https://img.shields.io/badge/npm-00f7ff?style=for-the-badge&logo=npm&logoColor=0d1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-00f7ff?style=for-the-badge&logo=openai&logoColor=0d1117) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ff00ff?style=for-the-badge&logo=githubactions&logoColor=0d1117) ![npm](https://img.shields.io/badge/npm-00f7ff?style=for-the-badge&logo=npm&logoColor=0d1117) ![Docker](https://img.shields.io/badge/Docker-ff00ff?style=for-the-badge&logo=docker&logoColor=0d1117)
 
 </div>
 
@@ -92,11 +104,24 @@ const SENA_LABS = {
 
 </div>
 
+## ðŸ¤ COLLABORATE
+
+<div align="center">
+
+```
+ðŸ’¡ Got an idea? Open an issue on any repo
+ðŸ› Found a bug? PRs are always welcome
+â­ Like what you see? A star goes a long way
+ðŸ“§ Business inquiries? Reach out below
+```
+
+</div>
+
 ## ðŸŒ NETWORK
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f7ff)](https://github.com/sena-labs) [![npm](https://img.shields.io/badge/npm-0d1117?style=for-the-badge&logo=npm&logoColor=ff00ff)](https://www.npmjs.com/package/profile-readme-ai) [![Open WebUI](https://img.shields.io/badge/Open_WebUI-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiMwMGY3ZmYiIHN0cm9rZS13aWR0aD0iMiI+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiLz48L3N2Zz4=&logoColor=00f7ff)](https://openwebui.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00f7ff)](https://github.com/sena-labs) [![npm](https://img.shields.io/badge/npm-0d1117?style=for-the-badge&logo=npm&logoColor=ff00ff)](https://www.npmjs.com/package/profile-readme-ai) [![Open WebUI](https://img.shields.io/badge/Open_WebUI-0d1117?style=for-the-badge&logoColor=00f7ff)](https://openwebui.com) [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff00ff)](mailto:sena-labs@proton.me)
 
 </div>
 
